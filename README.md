@@ -16,10 +16,9 @@ current_job: Professional Experimenter
 education:
   [
     "Self-Taught Web Developer with ReactJS",
-    "Currently doing my Bachelor in Computer Science at National University of Singapore",
+    "Currently doing my Bachelor of Computer Science at National University of Singapore",
   ]
-company: Soulber
-
+company: None
 fields_of_interests:
   [
     "Web Development",
@@ -31,9 +30,8 @@ technical_background:
   [
     "Intern - Frontend Developer"
   ]
-  
 currently_learning: ["AWS Solution Architech Associate", "Machine Learning Specialisation with Andrew Ng"]
-2024 Goals: ["Create 5+ Projects and get a ML related Internship"]
+2024 Goals: ["Create 5+ Projects, "ML related Internship"]
 hobbies: ["Bouldering", "Running"]
 ```
   
