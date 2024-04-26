@@ -30,7 +30,7 @@ technical_background:
   [
     "Intern - Frontend Developer"
   ]
-currently_learning: ["AWS Solution Architech Associate", "Machine Learning Specialisation with Andrew Ng"]
+currently_learning: ["AWS Solution Architect Associate", "Machine Learning Specialisation with Andrew Ng"]
 2024 Goals: ["Create 5+ Projects, "ML related Internship"]
 hobbies: ["Bouldering", "Running"]
 ```
