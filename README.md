@@ -16,23 +16,9 @@ current_job: Professional Experimenter
 education:
   [
     "Self-Taught Web Developer with ReactJS",
+    "AWS CAA03 (Solution Archictect Associate) Certified",
     "Currently doing my Bachelor of Computer Science at National University of Singapore",
   ]
-company: None
-fields_of_interests:
-  [
-    "Web Development",
-    "UI/UX,
-    "Machine Learning",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Intern - Frontend Developer"
-  ]
-currently_learning: ["AWS Solution Architect Associate", "Machine Learning Specialisation with Andrew Ng"]
-2024 Goals: ["Create 5+ Projects, "ML related Internship"]
-hobbies: ["Bouldering", "Running"]
 ```
   
 ---  
